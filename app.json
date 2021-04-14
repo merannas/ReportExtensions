@@ -1,0 +1,34 @@
+{
+  
+  "id": "3c1a3682-e705-463a-ae78-56e9bf7422b2",
+  "name": "Hello World from ReportExtensions",
+  "publisher": "MSM",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [   {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "18.0.23013.24175",
+      "publisher": "Microsoft"
+    }
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ReportExtensions.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
